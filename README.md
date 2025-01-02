@@ -5,7 +5,7 @@
 install package
 
 ```bash
-npm install prime-numbers
+npm install prime-number-list
 ```
 
 use prime numbers
